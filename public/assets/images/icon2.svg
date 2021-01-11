@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="icon2" transform="translate(-459 -2992)">
+    <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(464 2997)" fill="#ffc20e" stroke="rgba(255,194,14,0.5)" stroke-width="5">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="32.5" fill="none"/>
+    </g>
+    <path id="Icon_metro-thumbs-up" data-name="Icon metro-thumbs-up" d="M25.724,14.046c-.229-.612,6.1-6.261,2.409-10.839-.863-1.07-3.792,5.126-7.951,7.931-2.295,1.547-7.634,4.841-7.634,6.663V29.589c0,2.19,8.466,4.509,14.9,4.509,2.359,0,5.775-14.776,5.775-17.122s-7.272-2.316-7.5-2.929Zm-14.9.164A5.107,5.107,0,0,0,5.656,19.59v8.353a4.937,4.937,0,0,0,5.169,5.2c1.132,0-1.723-.985-1.723-3.894V18.274C9.1,15.228,11.956,14.21,10.824,14.21Z" transform="translate(474.344 3007.409)" fill="#fff"/>
+  </g>
+</svg>
