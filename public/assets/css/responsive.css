@@ -1,0 +1,61 @@
+@charset "utf-8";
+@media screen and (min-width:1700px){
+    .container{ max-width: 1600px;}
+}
+@media screen and (max-width:1200px){
+.container{max-width:inherit}
+}
+@media screen and (max-width:1080px){
+.best_in_img .robot{right:-30px;bottom:-50px;width:60%}
+.testi_slider{width:70%;padding:20px}
+.testi_img{width:30%;max-height:600px}
+.form_wrap{max-width:initial}
+.man_img{left:15px;width:50%}
+}
+@media screen and (max-width:1000px){
+.header{position:static;background-color:rgba(255,194,14,.8)}
+.menu .nav-item a{color:var(--ac-dark)}
+.menu .active a span::before,.menu .nav-item:focus a span::before,.menu .nav-item:hover a span::before{background-color:#fff}
+}
+@media screen and (max-width:940px){
+.man_img{width:45%}
+}
+@media screen and (max-width:850px){
+.man_img{width:40%}
+}
+@media screen and (max-width:767px){
+.man_img{display:none}
+.call_back_form{margin:0 auto}
+.best_in_info{margin:50px auto 0 auto}
+.man_best{height:300px;width:100%;object-fit:cover;object-position:top}
+.best_in_img .robot{right:50%;bottom:-60px;width:200px;margin-right:-100px}
+.best_in_img{box-shadow:10px 10px 0 var(--ac-ylw)}
+}
+@media screen and (max-width:750px){
+.call_head{margin-top:15px}
+.acf_logo{width:200px}
+.menu{width:calc(100% - 200px)}
+}
+@media screen and (max-width:768px){
+.hero_sec::before{width:200px;left:50%;margin-left:-100px;background-size:100%;background-position:bottom center}
+.hero_box a{font-size:30px;bottom:auto;top:5%;line-height:40px}
+}
+@media screen and (max-width:600px){
+.hero_sec::before{display:none}
+.hero_box{width:100%;height:300px}
+.hero_sec{flex-direction:column}
+.hero_box img{height:100%}
+.hero_box a{top:0;bottom:0;display:flex;justify-content:center;align-items:center}
+.testi_slider{width:100%;padding:20px}
+.testi_img{display:none}
+.talk_box{margin:30px auto}
+}
+@media screen and (max-width:500px){
+.feature_pnts{justify-content:center;align-items:center;flex-direction:column}
+.fp_box{margin-bottom:20px}
+.fp_box br{display:none}
+.services{margin-top:0}
+.talk_box p{padding-left:60px}
+.menu{margin-top:15px;width:100%;justify-content:center}
+.menu_box{flex-direction:column}
+}

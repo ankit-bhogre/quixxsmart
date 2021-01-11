@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="icon3" transform="translate(-626 -2991)">
+    <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(631 2996)" fill="#ffc20e" stroke="rgba(255,194,14,0.5)" stroke-width="5">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="32.5" fill="none"/>
+    </g>
+    <path id="Icon_metro-truck" data-name="Icon metro-truck" d="M37.049,20.869l-4.31-8.62H26.275V7.939A2.161,2.161,0,0,0,24.12,5.784H4.726A2.161,2.161,0,0,0,2.571,7.939V25.178l2.155,2.155H7.459a4.31,4.31,0,1,0,7.464,0H26.853a4.31,4.31,0,1,0,7.464,0h2.733V20.869Zm-10.775,0V14.4h4.467l3.232,6.465Z" transform="translate(641.429 3006.216)" fill="#fff"/>
+  </g>
+</svg>
